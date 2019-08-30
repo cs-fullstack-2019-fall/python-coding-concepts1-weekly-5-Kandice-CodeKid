@@ -18,6 +18,11 @@ Error Messages:
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
+ File "assessment.py", line 29
+    for x in range(7, negUser,-1)
+                                ^
+SyntaxError: invalid syntax
+
 
 
 
@@ -46,13 +51,18 @@ Error Messages:
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
 Error Messages:
+Traceback (most recent call last):
+  File "assessment.py", line 86, in <module>
+    prob7()
+  File "assessment.py", line 85, in prob7
+    print(book_collection.book1[0])
+AttributeError: 'list' object has no attribute 'book1'
 
 
 
 #8 Topic: _____
 (Choose one or more: Variables, Conditionals, For Loops, While Loops, Array, Function, and Class)
 
-Error Messages:
 
 
 
